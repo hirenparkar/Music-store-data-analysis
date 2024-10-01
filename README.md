@@ -5,9 +5,8 @@ This project analyzes a music store's database to derive insights into sales, cu
 
 ## Technologies Used
 - SQL
-- PostgreSQL (or specify your database system)
-- Data Visualization Tools (if applicable)
-
+- PostgreSQL 
+- Data Visualization Tools
 ## Database Schema
 The project utilizes a music store database with key tables including:
 - **customer**: Contains customer information.
